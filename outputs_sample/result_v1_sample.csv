@@ -1,0 +1,4 @@
+review_id,review_text,gold_sentiment,prompt_version,llm_output
+R001,A beautifully acted film with a simple story that becomes surprisingly emotional by the end.,positive,v1,"{""sentiment"": ""positive"", ""short_explanation"": ""The review praises the acting and emotional ending."", ""evidence_phrases"": [""beautifully acted"", ""surprisingly emotional by the end""]}"
+R026,"The film looks expensive, but the story is thin and the characters are hard to care about.",negative,v1,"{""sentiment"": ""negative"", ""short_explanation"": ""The film is criticized for a weak story and uninteresting characters."", ""evidence_phrases"": [""story is thin"", ""characters are hard to care about""]}"
+R002,"The pacing is slow at first, but the performances and final scene make the movie memorable.",positive,v1,"{""sentiment"": ""negative"", ""short_explanation"": ""The review says the pacing is slow."", ""evidence_phrases"": [""pacing is slow at first""]}"

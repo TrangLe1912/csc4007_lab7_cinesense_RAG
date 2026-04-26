@@ -1,0 +1,2 @@
+review_id,review_text,gold_sentiment,expected_aspects,difficulty,note
+S001,Paste or write one IMDB review here.,positive/negative,"acting,story,pacing,...",easy/mixed/ambiguous,Explain why this item is useful for testing.

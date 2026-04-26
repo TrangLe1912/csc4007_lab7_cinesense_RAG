@@ -1,0 +1,2 @@
+review_id,gold_sentiment,pred_sentiment,is_correct,valid_json,evidence_exact,hallucination,error_bucket,confidence,notes
+R001,positive,,0/1,0/1,0/1,0/1,none/wrong_sentiment/missed_negative_aspect/invalid_json/hallucinated_evidence/overconfident/other,high/medium/low,Write short evidence-based comment.

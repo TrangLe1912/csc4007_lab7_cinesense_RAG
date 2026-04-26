@@ -1,0 +1,51 @@
+review_id,review_text,gold_sentiment,expected_aspects,difficulty,source_note
+R001,A beautifully acted film with a simple story that becomes surprisingly emotional by the end.,positive,"acting,story,ending",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R002,"The pacing is slow at first, but the performances and final scene make the movie memorable.",positive,"pacing,acting,ending",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R003,I loved the chemistry between the leads and the soundtrack fits every scene perfectly.,positive,"acting,music",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R004,"The plot is predictable, yet the warm characters and sharp dialogue kept me engaged.",positive,"story,characters,dialogue",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R005,"A clever script, strong direction, and an ending that feels earned rather than forced.",positive,"story,direction,ending",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R006,"The visuals are stunning and the world feels alive, even when the story takes familiar turns.",positive,"visuals,story",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R007,"This movie balances humor and drama very well, with several scenes that stayed with me.",positive,"tone,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R008,"The film is not perfect, but it has heart, energy, and a cast that clearly understands the material.",positive,"acting,tone",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R009,A touching and thoughtful movie that rewards patience with a powerful emotional payoff.,positive,"emotion,pacing",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R010,The director turns a familiar premise into something fresh through careful details and strong atmosphere.,positive,"direction,atmosphere,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R011,"The action scenes are exciting, the editing is clean, and the characters are more interesting than expected.",positive,"action,editing,characters",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R012,"A quiet film, but the silence and small gestures say more than most loud dramas.",positive,"tone,acting",ambiguous_style,synthetic_imdb_style_sample_for_lab_scaffold
+R013,"The movie has a few weak jokes, but the emotional core works extremely well.",positive,"humor,emotion",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R014,The lead actor carries the film with a natural performance that makes even ordinary scenes compelling.,positive,acting,easy,synthetic_imdb_style_sample_for_lab_scaffold
+R015,A smart and entertaining film with enough surprises to keep the audience invested.,positive,"story,entertainment",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R016,The cinematography is gorgeous and the music gives the story a strong sense of place.,positive,"visuals,music",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R017,"Although the middle section drags, the film recovers with a satisfying final act.",positive,"pacing,ending",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R018,"The writing is witty, the cast is charming, and the movie never forgets its emotional stakes.",positive,"writing,acting,emotion",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R019,A well-crafted drama that avoids cheap sentiment and lets the characters develop naturally.,positive,"story,characters",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R020,"The movie is familiar, but it is executed with confidence and genuine affection for its genre.",positive,"story,direction,genre",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R021,"A delightful surprise with strong performances, memorable scenes, and a very satisfying conclusion.",positive,"acting,ending",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R022,The film uses a small story to explore big emotions without becoming heavy-handed.,positive,"story,emotion",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R023,"The dialogue feels natural, the pace is steady, and the final message is quietly powerful.",positive,"dialogue,pacing,ending",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R024,A charming movie that makes up for its simple plot with sincere characters and lovely music.,positive,"story,characters,music",mixed_surface_positive_label,synthetic_imdb_style_sample_for_lab_scaffold
+R025,"I expected very little, but the movie surprised me with its humor, warmth, and thoughtful ending.",positive,"humor,tone,ending",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R026,"The film looks expensive, but the story is thin and the characters are hard to care about.",negative,"visuals,story,characters",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R027,"A dull movie with flat dialogue, weak pacing, and an ending that feels completely unearned.",negative,"dialogue,pacing,ending",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R028,"The actors try their best, but the script gives them almost nothing interesting to do.",negative,"acting,writing",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R029,The movie starts with promise and then slowly collapses into predictable twists and noisy scenes.,negative,"story,pacing,action",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R030,"I wanted to enjoy it, but the plot is confusing, the jokes fall flat, and the runtime feels endless.",negative,"story,humor,pacing",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R031,Beautiful images cannot hide the lack of emotional depth or meaningful character development.,negative,"visuals,emotion,characters",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R032,The film repeats the same idea for two hours and never builds real tension.,negative,"story,pacing,tension",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R033,"The soundtrack is impressive, but almost every character decision feels forced.",negative,"music,characters,story",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R034,"A messy and unfocused movie that seems unsure whether it wants to be comedy, drama, or thriller.",negative,"tone,genre,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R035,"The final act tries to be emotional, but it has not earned that reaction from the audience.",negative,"ending,emotion,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R036,The pacing is so uneven that several important scenes lose their impact.,negative,"pacing,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R037,"There are a few clever moments, but most of the film feels lazy and predictable.",negative,"story,writing",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R038,The dialogue sounds artificial and the characters explain feelings instead of showing them.,negative,"dialogue,characters,writing",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R039,The movie relies on loud music and quick cuts instead of suspense or meaningful conflict.,negative,"music,editing,tension",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R040,An overlong film with too many subplots and not enough reason to care about any of them.,negative,"pacing,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R041,"The premise is interesting, but the execution is painfully generic.",negative,"story,direction",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R042,The jokes are repetitive and the emotional scenes feel copied from better films.,negative,"humor,emotion,originality",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R043,"The cast has talent, yet the direction makes every scene feel stiff and lifeless.",negative,"acting,direction",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R044,"The movie explains too much, trusts the audience too little, and still leaves major plot points unclear.",negative,"writing,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R045,A disappointing sequel that adds more noise but loses the charm of the original.,negative,"sequel,action,tone",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R046,"The visual effects are fine, but the film lacks personality and emotional weight.",negative,"visuals,tone,emotion",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
+R047,The story moves from one cliché to another without giving the viewer anything new.,negative,"story,originality",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R048,"I found the movie exhausting, not because it is complex, but because it is badly organized.",negative,"structure,pacing",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R049,"The ending tries to shock the audience, but it only makes the earlier story feel pointless.",negative,"ending,story",easy,synthetic_imdb_style_sample_for_lab_scaffold
+R050,A technically polished film that fails to deliver believable characters or a convincing conflict.,negative,"visuals,characters,conflict",mixed_surface_negative_label,synthetic_imdb_style_sample_for_lab_scaffold
