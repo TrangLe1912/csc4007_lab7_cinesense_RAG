@@ -1,0 +1,5 @@
+﻿question_id,case_type,gold_chunk_ids
+Q01,evidence,imdb_review_pack_002_chunk_003;imdb_review_pack_002_chunk_007
+Q02,evidence,imdb_review_pack_001_chunk_008;imdb_review_pack_003_chunk_012
+Q03,evidence,imdb_review_pack_003_chunk_009
+Q04,evidence,imdb_review_pack_009_chunk_002

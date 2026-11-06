@@ -1,0 +1,10 @@
+{
+  "version": "synthetic_cinesense_kb_v2",
+  "source_type": "synthetic_teaching_example",
+  "file": "kb_v2_full.jsonl",
+  "chunks": 40,
+  "film_cards": 12,
+  "reviews": 28,
+  "films": 12,
+  "generator": "curated teaching examples, not IMDB originals; fictional people names"
+}
