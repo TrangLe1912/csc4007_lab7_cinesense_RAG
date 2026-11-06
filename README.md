@@ -6,9 +6,9 @@
 
 Lab 7 nối tiếp Lab 6 (Prompt Engineering + RAG TF-IDF). Lab này đi tiếp ba bước:
 
-1. **RAG Assistant (Bài 8):** kho tri thức có *film card* và metadata `film_id`, hàm `retrieve(query, k, filters)`, trả lời kèm citation, từ chối khi thiếu bằng chứng, chống prompt injection.
+1. **RAG Assistant (Bài 7):** kho tri thức có *film card* và metadata `film_id`, hàm `retrieve(query, k, filters)`, trả lời kèm citation, từ chối khi thiếu bằng chứng, chống prompt injection.
 2. **Kiểm chứng:** Hit@k, citation, no-evidence, injection, phân loại lỗi retrieval và generation.
-3. **Nối Bài 9 (Multi-hop Reasoning):** thử câu hỏi cần *thực thể cầu nối*, rồi dùng khung `src/multihop.py` (hai chỗ TODO) và bộ độ đo 4 tầng.
+3. **Nối Bài 8 (Multi-hop Reasoning):** thử câu hỏi cần *thực thể cầu nối*, rồi dùng khung `src/multihop.py` (hai chỗ TODO) và bộ độ đo 4 tầng.
 
 ## Cài đặt
 
